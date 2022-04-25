@@ -479,10 +479,10 @@
     node-fetch "^2.6.1"
     source-map-support "^0.5.21"
 
-"@remix-run/react@^1.3.3":
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.3.3.tgz#e12184bcaaa81df6f9bf61f5f0ccb6663040e847"
-  integrity sha512-aAfsVMv1qTXAvjKAOhSpDEUPrAu9LasWc9khPcNOkG/YEHFOYx4zRwuRYjfxSR28LQKzpQFjzbjg/RUTKSfatA==
+"@remix-run/react@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.4.1.tgz#1875ebeffabedb66a2634b237e247919fdadccf4"
+  integrity sha512-SNUQV1jFm8zPtQdVsXOjNwlsyMhr3RAy/5hQOo19G1KAP7eHALmG2dpbm+La1s6oN7ngSdey0ahLnDPHmU0xeQ==
   dependencies:
     history "^5.3.0"
     react-router-dom "^6.2.2"
